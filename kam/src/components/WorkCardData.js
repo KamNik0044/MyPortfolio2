@@ -11,9 +11,9 @@ const ProjectCardData = [
     },
     {
         imgsrc: pro2,
-        title: "Maya Nelson Portfolio",
-        text: "First Full responsive project",
-        view: "https://responsive-project-kam.netlify.app/"
+        title: "Kam Chat",
+        text: "Developed a fully responsive chat application in React, utilizing Firebase for authentication and real-time data storage, and integrating Google Cloud for user discovery, enabling seamless sign-up, login, and user-to-user interactions.",
+        view: "https://beautiful-genie-4c09bc.netlify.app/login"
     },
     {
         imgsrc: pro3,
